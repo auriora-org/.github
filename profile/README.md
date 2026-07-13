@@ -55,7 +55,7 @@ The first module families are in development:
 
 Research notes, datasets and publications will follow as public material becomes available.
 
-Everything is developed in the open — hardware, firmware, software and documentation alike — under the engineering standards and guides that all AURIORA projects follow:
+Everything is developed in the open — hardware, firmware, software and documentation alike — under the engineering standards and guides that all AURIORA projects follow. The standards scale their requirements with project maturity, keeping experiments lightweight while public releases stay reproducible:
 
 - [AURIORA Engineering Standard](https://github.com/auriora-org/auriora-engineering-standard) — the constitutional engineering reference for the AURIORA Platform
 - [AURIORA Hardware Design Guide](https://github.com/auriora-org/auriora-hardware-design-guide) — how hardware is designed

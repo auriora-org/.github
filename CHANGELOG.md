@@ -4,6 +4,12 @@ All notable changes to the AURIORA organization profile are documented in this f
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Released versions are tagged in version control.
 
+## Unreleased
+
+### Changed
+
+- Standards paragraph now mentions that the standards scale requirements with project maturity (AURIORA 1.1.0 lean revision).
+
 ## 1.0.0 - 2026-07-10
 
 First tagged release.
