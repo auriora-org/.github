@@ -9,6 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 
 - Standards paragraph now mentions that the standards scale requirements with project maturity.
+- Areas of Exploration now states the initial experimental focus (plants and the living, fungal and mycorrhizal networks they form) while keeping the broader comparative scope.
+- "Parametric audio" module family renamed to "Acoustic stimulation" and described as programmable sound stimuli from synthesized patterns and stored audio samples.
 
 ## 1.0.0 - 2026-07-10
 

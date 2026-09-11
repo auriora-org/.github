@@ -33,7 +33,7 @@ AURIORA looks for shared principles across very different forms of life:
 - **Collective systems** — how simple interactions give rise to complex, adaptive behavior
 - **Ecosystems and interdependence** — intelligence as a process distributed across relationships rather than individuals
 
-In practice, this points toward concrete lines of work such as plant electrophysiology, biological signaling and communication, environmental sensing, human-technology interfaces, and open scientific instrumentation.
+The initial experimental focus is plants and the living, fungal and mycorrhizal networks they form, where sensing and signaling are most directly measurable. The broader initiative remains open to comparative exploration across living systems.
 
 ## Principles
 
@@ -51,7 +51,7 @@ The first module families are in development:
 
 - **Plant electrophysiology** — measurement of the electrical signals of plants
 - **Plant photobiology** — controlled light stimulation and measurement
-- **Parametric audio** — generated sound patterns and sample playback for stimulation and interaction
+- **Acoustic stimulation** — programmable sound stimuli from synthesized patterns and stored audio samples
 
 Research notes, datasets and publications will follow as public material becomes available.
 
