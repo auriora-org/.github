@@ -29,7 +29,7 @@ AURIORA explores a simple question:
 AURIORA looks for shared principles across very different forms of life:
 
 - **Brains and nervous systems** — how organisms sense, learn and adapt through electrical and chemical signaling
-- **Plants and living networks** — intelligence in organisms that coordinate without a centralized nervous system
+- **Plants and living networks** — how organisms without a centralized nervous system sense, coordinate and adapt
 - **Collective systems** — how simple interactions give rise to complex, adaptive behavior
 - **Ecosystems and interdependence** — intelligence as a process distributed across relationships rather than individuals
 
@@ -47,7 +47,7 @@ The initial experimental focus is plants and the living, fungal and mycorrhizal 
 
 Open questions need instruments. AURIORA develops open scientific hardware and software for observing and interacting with living systems.
 
-The first module families are in development:
+The first module families are in development; their repositories are published as each module reaches a releasable state:
 
 - **Plant electrophysiology** — measurement of the electrical signals of plants
 - **Plant photobiology** — controlled light stimulation and measurement
