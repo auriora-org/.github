@@ -8,9 +8,9 @@
 
 ---
 
-AURIORA is an open initiative exploring intelligence, adaptation and communication across living systems.
+AURIORA is an open initiative exploring how intelligence emerges across very different systems, beginning with plants and the networks they form.
 
-Rather than treating intelligence as something exclusive to human cognition, AURIORA investigates how different forms of life sense, respond, communicate and coordinate with their environments.
+Rather than treating intelligence as something exclusive to human cognition, AURIORA investigates how very different systems sense, respond, communicate and coordinate with their environments.
 
 The project exists as an open space for observation, measurement, experimentation and interdisciplinary exploration.
 
@@ -22,7 +22,7 @@ Yet throughout nature, we find systems that sense, adapt, communicate and coordi
 
 AURIORA explores a simple question:
 
-**How does intelligence emerge across different living systems?**
+**What is intelligence, and how does it emerge in different systems?**
 
 ## Areas of Exploration
 
@@ -33,7 +33,7 @@ AURIORA looks for shared principles across very different forms of life:
 - **Collective systems** — how simple interactions give rise to complex, adaptive behavior
 - **Ecosystems and interdependence** — intelligence as a process distributed across relationships rather than individuals
 
-The initial experimental focus is plants and the living, fungal and mycorrhizal networks they form, where sensing and signaling are most directly measurable. The broader initiative remains open to comparative exploration across living systems.
+The initial experimental focus is plants and the fungal and mycorrhizal networks they form, where sensing and signaling are most directly measurable. The broader initiative remains open to comparative exploration across very different systems.
 
 ## Principles
 
@@ -71,7 +71,7 @@ Intelligence remains one of the least understood phenomena in science.
 
 Many existing definitions are centered on human cognition, yet living systems continuously demonstrate sophisticated forms of sensing, adaptation and coordination.
 
-AURIORA exists as an open invitation to explore these questions across forms of life.
+AURIORA exists as an open invitation to explore these questions across very different systems.
 
 ## Links
 
