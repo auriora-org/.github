@@ -8,7 +8,7 @@
 
 ---
 
-AURIORA is an open initiative exploring how intelligence emerges across very different systems, beginning with plants and the networks they form.
+AURIORA is an open initiative exploring how intelligence emerges across very different systems, beginning with plants and the networks they live in.
 
 Rather than treating intelligence as something exclusive to human cognition, AURIORA investigates how very different systems sense, respond, communicate and coordinate with their environments.
 
@@ -33,7 +33,7 @@ AURIORA looks for shared principles across very different forms of life:
 - **Collective systems** — how simple interactions give rise to complex, adaptive behavior
 - **Ecosystems and interdependence** — intelligence as a process distributed across relationships rather than individuals
 
-The initial experimental focus is plants and the fungal and mycorrhizal networks they form, where sensing and signaling are most directly measurable. The broader initiative remains open to comparative exploration across very different systems.
+The initial experimental focus is plants, where sensing and signaling can be recorded with instruments AURIORA can build and share; the fungi they live with, and the mycorrhizal networks that connect them, are a later step. The broader initiative remains open to comparative exploration across very different systems.
 
 ## Principles
 

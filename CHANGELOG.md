@@ -4,6 +4,12 @@ All notable changes to the AURIORA organization profile are documented in this f
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Released versions are tagged in version control.
 
+## Unreleased
+
+### Changed
+
+- Opening description says "plants and the networks they live in" instead of "the networks they form", and the Areas of Exploration focus names plants as the starting point with fungi and mycorrhizal networks as a later step instead of a current measurement capability; the "most directly measurable" comparison is dropped. Matches the website 1.3.0.
+
 ## 1.1.0 - 2026-10-04
 
 ### Changed
